@@ -15,7 +15,9 @@ A campus parking reservation app for Android. Drivers see a live map of the lot,
 
 ## Team
 
-- Johann Lijauco
+Originally our Machine Problem for Integrative Programming.
+
+- Johann Lijauco (lead programmer)
 - Mikhail David
 - Zei Ramirez
 - Austine Ang
@@ -34,7 +36,7 @@ A campus parking reservation app for Android. Drivers see a live map of the lot,
 
 ## What changed from the original version
 
-The first version of this group project was a single-screen Jetpack Compose prototype with a small PHP backend. This version is a full rewrite that fixes these problems:
+The first version of this group project, our Machine Problem for Integrative Programming, was a single-screen Jetpack Compose prototype with a small PHP backend. This version is a full rewrite that fixes these problems:
 
 | Problem in the original | Fix |
 | --- | --- |
